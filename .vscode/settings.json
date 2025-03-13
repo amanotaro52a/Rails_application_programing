@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:Rails_application_programing}/storage/development.sqlite3",
+            "name": "railbook"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
