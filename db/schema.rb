@@ -10,11 +10,12 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema[8.0].define(version: 2025_03_12_032326) do
+ActiveRecord::Schema[8.0].define(version: 2025_03_14_142658) do
   create_table "books", force: :cascade do |t|
     t.string "isbn"
     t.string "title"
-    t.integer "price"
+    t.string "price"
+    t.string "integer"
     t.string "publisher"
     t.date "published"
     t.boolean "dl"

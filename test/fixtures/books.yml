@@ -39,7 +39,7 @@ nuxt:
 html:
   id: 5
   isbn: 978-4-296-07070-1
-  title: 作って学べるHTML+JavaScript
+  title: 作って学べるHTML＋JavaScript
   price: 2420
   publisher: 日経BP
   published: 2023-07-06
@@ -89,3 +89,4 @@ csharp:
   publisher: 翔泳社
   published: 2022-07-21
   dl: true
+
