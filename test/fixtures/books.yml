@@ -1,6 +1,6 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-mysql:
+one:
   id: 1
   isbn: 978-4-297-13919-3
   title: 3ステップで学ぶ MySQL入門
@@ -39,7 +39,7 @@ nuxt:
 html:
   id: 5
   isbn: 978-4-296-07070-1
-  title: 作って学べるHTML＋JavaScript
+  title: 作って学べるHTML+JavaScript
   price: 2420
   publisher: 日経BP
   published: 2023-07-06

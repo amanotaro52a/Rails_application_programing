@@ -4,7 +4,6 @@ class CreateBooks < ActiveRecord::Migration[8.0]
       t.string :isbn
       t.string :title
       t.string :price
-      t.string :integer
       t.string :publisher
       t.date :published
       t.boolean :dl
